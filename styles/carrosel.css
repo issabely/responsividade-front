@@ -47,13 +47,13 @@
 .descricao__titulo{
     color: var(--laranja);
     font-weight: 700;
-    padding: 0.5em 0;
 }
 
 .descricao__titulo-livro{
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
+    margin: 0.5em 0;
 }
 
 .descricao__texto{
